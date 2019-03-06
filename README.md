@@ -34,7 +34,7 @@ The final view should look like the following picture:
 ![Exercise 1 finished](https://i.imgur.com/pRLeJP4.png)
 
 
-### Exercise #2: Visualize Data of Your Choice
+### Exercise #2: Visualize Data of Your choice
 
 File to work on: **exercise2.py**
 
